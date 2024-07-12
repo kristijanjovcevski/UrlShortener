@@ -1,0 +1,39 @@
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\bin\Debug\net8.0\appsettings.json
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\bin\Debug\net8.0\UrlShortener and QR code generator.staticwebassets.runtime.json
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\bin\Debug\net8.0\UrlShortener and QR code generator.exe
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\bin\Debug\net8.0\UrlShortener and QR code generator.deps.json
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\bin\Debug\net8.0\UrlShortener and QR code generator.runtimeconfig.json
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\bin\Debug\net8.0\UrlShortener and QR code generator.dll
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\bin\Debug\net8.0\UrlShortener and QR code generator.pdb
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\UrlShortener and QR code generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\UrlShortener and QR code generator.AssemblyInfoInputs.cache
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\UrlShortener and QR code generator.AssemblyInfo.cs
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\UrlShortener and QR code generator.csproj.CoreCompileInputs.cache
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\UrlShortener and QR code generator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\UrlShortener and QR code generator.RazorAssemblyInfo.cache
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\UrlShortener and QR code generator.RazorAssemblyInfo.cs
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\UrlShortener and QR code generator.sourcelink.json
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\staticwebassets\msbuild.UrlShortener and QR code generator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\staticwebassets\msbuild.build.UrlShortener and QR code generator.props
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UrlShortener and QR code generator.props
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UrlShortener and QR code generator.props
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\scopedcss\bundle\UrlShortener and QR code generator.styles.css
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\scopedcss\projectbundle\UrlShortener and QR code generator.bundle.scp.css
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\UrlShortener and QR code generator.dll
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\refint\UrlShortener and QR code generator.dll
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\UrlShortener and QR code generator.pdb
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\UrlShortener and QR code generator.genruntimeconfig.cache
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\ref\UrlShortener and QR code generator.dll
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\bin\Debug\net8.0\QRCoder.dll
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\UrlShortener and QR code generator.csproj.AssemblyReference.cache
+C:\Users\UserWin\Documents\ProjectFINKI\MyOwnProjects\ASP.NET core and C# projects\UrlShortener and QR code generator\UrlShortener\obj\Debug\net8.0\UrlShort.CCDD71C9.Up2Date

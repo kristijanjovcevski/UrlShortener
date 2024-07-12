@@ -1,0 +1,118 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    <style>
+
+        .btn-no-border {
+            border: none;
+        }
+
+        .btn-no-bg {
+            background-color: transparent;
+            color: inherit;
+
+        }
+        
+    </style>
+
+</head>
+
+
+<div class="container text-center" >
+
+    <div class="row">
+        <div class="col">
+            <h2>Welcome to linky url shortener!</h2>
+        </div>
+    </div>
+
+    <div class="row mt-5">
+
+        <div class="col">
+
+            <form asp-action="GenerateLink">
+
+            <label class="mb-2">Enter link
+
+                    <input type="url" name="fullLink" />
+
+            </label> <br />
+
+            <button type="submit" class="btn btn-success ms-1">Generate link</button>
+
+            </form>
+
+
+            @if (@ViewData["ShortenedLink"] != null)
+            {
+                <div class="row mt-3 justify-content-center">
+
+                    <div class="col-2 p-0">
+                        <a href="@ViewData["FullLink"]" id="textToCopy">@ViewData["ShortenedLink"]</a>
+
+
+                           
+
+                        <p id="copyMessage" style="display: none; color: green;">Text copied to clipboard!</p>
+
+                    </div>
+
+                    <div class="col-2 p-0">
+                        <button onclick="copyToClipboard()" class="btn btn-secondary btn-no-border copy-btn">
+
+                            <i class="bi bi-clipboard"></i>
+
+
+                        </button>
+
+                    </div>
+
+                    <div class="col-2 p-0">
+
+                        <form>
+                            <button type="submit" class="btn btn-secondary" style="white-space: nowrap;">Shortened Link preview</button>
+
+
+                        </form>
+
+                    </div>
+                    
+
+                </div>
+
+            }
+
+
+            <form method = "post" asp-action="GenerateQRCode">
+
+                <label class="mb-2">
+                    Enter link
+
+                    <input type="url" name="URL" required/>
+
+                </label> <br />
+
+                <button type="submit" class="btn btn-success ms-1">Generate QR code</button>
+
+            </form>
+
+            @if (!string.IsNullOrEmpty(ViewBag.QRCodeImageUrl))
+            {
+                <div>
+                    <h3>Generated QR Code:</h3>
+                    <img src="@ViewBag.QRCodeImageUrl" alt="QR Code" style="max-width: 300px; height: auto;" />
+                </div>
+            }
+
+            
+       </div>
+
+    </div>
+    <div class="row"></div>
+
+    <script src="~/js/site.js"></script>
+
+</div>
